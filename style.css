@@ -1,0 +1,43 @@
+<!-- Style Sheet: style.css -->
+
+body {
+	background-color: brown;
+}	
+
+h1, h2 {
+	color: white;
+	margin-bottom: 0px;
+	background-color: #006747;
+	}
+h2 {
+	color: #CFC493;
+}
+	
+	
+h3 {
+	color: maroon;
+	font-size: 120%;
+	}
+
+p 	{
+	margin-top: -15px;
+	}
+	
+li {
+	margin-top: 15px;
+	font-style: italic;
+	}
+
+dd {
+	font-size: 110%;
+}
+
+a {
+		border-style: double;
+		font-size: 110%;
+	}
+	
+a:hover {
+		background-color: orange;
+		color: #006747;
+		}
